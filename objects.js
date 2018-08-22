@@ -1,4 +1,4 @@
-var playlist = new Object ({ greenday: 'longview' })
+var playlist = new Object ({ artistName: 'songTitle' })
 
 function updatePlaylist(playlist, artistName, songTitle) {
 return
